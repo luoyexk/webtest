@@ -1,1 +1,1 @@
-web: java -jar target/davinci-1.0.jar
+web: java target/classes/index.html
